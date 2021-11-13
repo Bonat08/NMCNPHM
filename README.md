@@ -1,2 +1,2 @@
 # NMCNPHM
-Đồ án nhóm - Nhập môn công nghệ phân mềm
+Đồ án nhóm 05 - Nhập môn công nghệ phân mềm
